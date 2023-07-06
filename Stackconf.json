@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/atix.de\/"
+                 "value":"https:\/\/atix.de/en/services/technologies/foreman/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.netways.de\/"
+                 "value":"https:\/\/www.netways.de/en/consulting/automation/foreman/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,7 +121,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/stackconf.eu\/"
+                 "value":"https:\/\/theforeman.org\/"
                 }],
          "type":"tilelayer",
          "visible":true,
